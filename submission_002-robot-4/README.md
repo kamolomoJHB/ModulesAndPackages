@@ -1,8 +1,6 @@
 # Problem - Toy Robot
 
-* Modify `robot.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+Split the command and control functionality from the way the robot’s response is presented to the user
 
 ### To Run
 
