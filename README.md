@@ -1,5 +1,5 @@
 # ToyRobot
-Iteration 1: You will need to introduce functions into the initial prototype code, and get the bugs sorted out in the process.
+Iteration 1: Introduce functions into the initial prototype code, and get the bugs sorted out in the process.
 
 Iteration 2: Introduce the handling of commands from the user, and output of responses.
 
