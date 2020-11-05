@@ -1,6 +1,6 @@
 # Problem - Toy Robot
 
-Split the command and control functionality from the way the robot’s response is presented to the user
+Split the command and control functionality from the way the robot’s response is presented to the user.
 
 ### To Run
 
